@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @njoudae
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0582968140
 
 <!---
