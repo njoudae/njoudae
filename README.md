@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:njoodeshaq@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/njoud-abdulaziz-26a47b208/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4" />
+  <img src="[https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4](https://x.com/njoudae9)" />
 </p>
 
 <p align="center">
@@ -24,11 +24,10 @@
 
 ### 🧠 About Me
 
-- 🔬 Currently exploring **Arabic NLP**, **representation learning**, and **advanced pooling strategies**.
-- 🤖 Building AI systems with **Transformers**, **PyTorch**, and **LLMs**.
-- 📊 Interested in rigorous experiments: **F1**, **ROC/PR curves**, threshold tuning, and model evaluation.
-- 🚀 Passionate about applied AI for **healthcare**, **legal technology**, and intelligent automation.
-
+- 🎓 Master’s student in **Computer Science (Artificial Intelligence)**.
+- 🔬 Research interests include **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.
+- 🧹 Skilled in **data preprocessing**, **cleaning pipelines**, and **feature selection techniques**.
+- 🤖 Developing AI systems with **Transformers**, **PyTorch**, and **LLMs**.
 ---
 
 ### 🛠️ Languages & Tools
@@ -39,23 +38,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MARBERTv2-Arabic%20Transformer-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/AraBERT-Arabic%20NLP-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/mBERT-Multilingual-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/SVM-Machine%20Learning-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/Logistic%20Regression-Baseline%20ML-purple?style=flat-square" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="155" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
 </p>
 
 ---
