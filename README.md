@@ -83,14 +83,21 @@
 
   <tr>
     <td width="50%">
-      <h4>⚖️ Lawyer AI Assistant</h4>
-      <p>Saudi Law GPT assistant for legal Q&A, contract analysis, and structured legal reasoning.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LLM-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Saudi%20Law-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/GPT-blue?style=flat-square" />
-      </p>
-    </td>
+  <h4>⚖️ Lawyer AI Assistant</h4>
+  
+  <p>
+    AI-powered legal assistant built on a Retrieval-Augmented Generation (RAG) system using structured Saudi law content. 
+    Transformed raw legal documents into a structured Markdown-based knowledge base, enabling accurate legal Q&A, contract analysis, and contextual reasoning through an interactive web chat interface.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/RAG-FF6D5A?style=flat-square" />
+    <img src="https://img.shields.io/badge/LLM-0A66C2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Knowledge%20Base-008080?style=flat-square" />
+    <img src="https://img.shields.io/badge/Saudi%20Law-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/Web%20App-5C3EE8?style=flat-square" />
+  </p>
+</td>
     <td width="50%">
   <h4>🚗 
     <a href="https://github.com/njoudae/MUSIR_ASIR_TABTAKER">
