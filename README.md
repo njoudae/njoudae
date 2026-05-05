@@ -193,15 +193,6 @@
 
 ---
 
-### 🔬 Research Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Representation%20Learning-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Advanced%20Pooling-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Token%20Importance-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arabic%20NLP-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-orange?style=flat-square" />
-</p>
 
 ---
 
