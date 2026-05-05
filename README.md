@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Documentation-LaTeX-008080?style=flat-square&logo=latex" />
 </p>
 
-### 📌 Featured Projects
+### 📌 Projects
 
 <table>
   <tr>
@@ -93,7 +93,7 @@
     </td>
     <td width="50%">
       <h4>🚗 Driver License Validation System</h4>
-      <p>OCR + LLM decision system for extracting license data and generating PASS / REJECT validation.</p>
+      <p>AI-based automated document verification system for truck drivers, leveraging computer vision and OCR. Developed and deployed as a mobile application to streamline identity validation and reduce manual verification processes.</p>
       <p>
         <img src="https://img.shields.io/badge/OCR-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/LLM-blue?style=flat-square" />
@@ -114,7 +114,7 @@
     </td>
     <td width="50%">
       <h4>🔬 Research Experiments</h4>
-      <p>Experiments on pooling, token importance, feature weighting, imbalance handling, and evaluation pipelines.</p>
+      <p>Experiments on pooling, token importance, feature selection, imbalance handling, and evaluation pipelines.</p>
       <p>
         <img src="https://img.shields.io/badge/F1%20Score-ff69b4?style=flat-square" />
         <img src="https://img.shields.io/badge/ROC%2FPR-Curves-blue?style=flat-square" />
