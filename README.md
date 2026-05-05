@@ -166,7 +166,29 @@
     <img src="https://img.shields.io/badge/Chatbot-0A66C2?style=flat-square" />
     <img src="https://img.shields.io/badge/Data%20Pipeline-008080?style=flat-square" />
   </p>
-</td></tr>
+</td>
+
+<td width="50%">
+  <h4>🛒 AI Purchasing Agent</h4>
+  
+  <p>
+    End-to-end procurement automation system built with n8n, integrating email-based request intake, AI-powered data extraction, and intelligent workflow automation. 
+    Automates vendor matching, RFQ generation, quotation collection, and selection based on price and delivery criteria.
+  </p>
+
+  <p>
+    Includes dynamic weekly reporting, approval routing based on thresholds, and audit logging to ensure traceability and operational efficiency.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n" />
+    <img src="https://img.shields.io/badge/Automation-0A66C2?style=flat-square" />
+    <img src="https://img.shields.io/badge/LLM%20Extraction-008080?style=flat-square" />
+    <img src="https://img.shields.io/badge/Email%20Workflow-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Data%20Pipeline-5C3EE8?style=flat-square" />
+  </p>
+</td>
+</tr>
 </table>
 
 ---
