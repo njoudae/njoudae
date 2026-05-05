@@ -21,8 +21,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Saudi%20Arabia-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Arabic%20NLP-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Representation%20Learning-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Intelligent%20Systems%20%26%20Automation-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Impact-AI%20Digital%20Transformation-25D366?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-ML%20%26%20NLP-ff69b4?style=flat-square" />
 </p>
 
 ---
