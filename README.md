@@ -17,7 +17,6 @@
   <a href="https://wa.me/966582968140">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=njoudae&style=flat-square&color=ff69b4" />
 </p>
 
 <p align="center">
