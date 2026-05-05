@@ -40,16 +40,22 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,vscode,html,css,js,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,vscode,html,css,js,fastapi,docker" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MARBERTv2-Arabic%20Transformer-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/SVM-Machine%20Learning-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Logistic%20Regression-Baseline%20ML-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-n8n-FF6D5A?style=flat-square&logo=n8n" />
+  <img src="https://img.shields.io/badge/Automation-Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate" />
+  <img src="https://img.shields.io/badge/APIs-Integration%20%26%20Workflows-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployment-Docker%20%26%20FastAPI-2496ED?style=flat-square&logo=docker" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-MARBERTv2-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML-SVM-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML-Logistic%20Regression-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-LaTeX-008080?style=flat-square&logo=latex" />
+</p>
 
 ### 📌 Featured Projects
 
