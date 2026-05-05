@@ -151,6 +151,22 @@
       </p>
     </td>
   </tr>
+  <tr>
+  <td width="50%">
+  <h4>🎓 Offer KKU Chatbot</h4>
+  
+  <p>
+    Automated chatbot system that extracts and distributes real-time offers from the official KKU offers platform for students and staff. 
+    Utilizes web scraping and a continuous data pipeline to collect, process, and deliver updates, reducing the need for manual browsing.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Web%20Scraping-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Automation-FF6D5A?style=flat-square" />
+    <img src="https://img.shields.io/badge/Chatbot-0A66C2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Data%20Pipeline-008080?style=flat-square" />
+  </p>
+</td></tr>
 </table>
 
 ---
