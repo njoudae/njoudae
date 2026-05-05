@@ -92,14 +92,30 @@
       </p>
     </td>
     <td width="50%">
-      <h4>🚗 Driver License Validation System</h4>
-      <p>AI-based automated document verification system for truck drivers, leveraging computer vision and OCR. Developed and deployed as a mobile application to streamline identity validation and reduce manual verification processes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OCR-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLM-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Decision%20Engine-ff69b4?style=flat-square" />
-      </p>
-    </td>
+  <h4>🚗 
+    <a href="https://github.com/njoudae/MUSIR_ASIR_TABTAKER">
+      Driver License Validation System
+    </a>
+  </h4>
+  
+  <p>
+    AI-powered document verification system for truck drivers, leveraging computer vision and OCR. 
+    Designed and deployed as a mobile application to automate identity validation, reduce manual processing, and improve accuracy.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/OCR-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" />
+    <img src="https://img.shields.io/badge/LLM-0A66C2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Decision%20Engine-ff69b4?style=flat-square" />
+  </p>
+
+  <p>
+    <a href="https://github.com/njoudae/MUSIR_ASIR_TABTAKER">
+      <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+    </a>
+  </p>
+</td>
   </tr>
 
   <tr>
