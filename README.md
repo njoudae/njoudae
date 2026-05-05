@@ -31,10 +31,11 @@
 ### 🧠 About Me
 
 - 🎓 Master’s student in **Computer Science (Artificial Intelligence)**.
-- 🔬 Research interests include **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.
-- 🧹 Skilled in **data preprocessing**, **cleaning pipelines**, and **feature selection techniques**.
-- 🤖 Developing AI systems with **Transformers**, **PyTorch**, and **LLMs**.
----
+- 🧠 Focused on **AI research, innovation, and designing intelligent systems**.
+- 🏗️ Building **scalable AI systems and automation-driven solutions** for real-world applications.
+- 🧹 Strong expertise in **data preprocessing, cleaning pipelines, and feature engineering**.
+- 📊 Experienced in **model evaluation, optimization, and performance-driven development**.
+- 🤖 Working with **Transformers, PyTorch**, and exploring **LLMs for advanced AI applications**.
 
 ### 🛠️ Languages & Tools
 
