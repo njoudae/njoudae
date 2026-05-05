@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello, I'm Nejood</h3>
 
 <p align="center">
-  <b>AI Engineer & Machine Learning Researcher</b> | Arabic NLP, Representation Learning & Deep Learning
+  <b>AI Engineer & Researcher</b> | Intelligent Systems, Automation & AI-Driven Digital Transformation
 </p>
 
 <p align="center">
