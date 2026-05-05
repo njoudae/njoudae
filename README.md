@@ -71,15 +71,21 @@
       </p>
     </td>
     <td width="50%">
-      <h4>🧬 NutriTargetAI</h4>
-      <p>AI system for discovering therapeutic uses of natural compounds through compound-protein-disease mapping.</p>
-      <p>
-        <img src="https://img.shields.io/badge/BioAI-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Drug%20Discovery-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+  <h4>🚌 Wswl – Smart Transportation System</h4>
+  
+  <p>
+    AI-powered smart mobility system designed to automate university transportation operations. 
+    Covers the full workflow from trip preparation and scheduling to real-time tracking and passenger analytics, 
+    enabling efficient monitoring and data-driven decision-making.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Automation-FF6D5A?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tracking-0A66C2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Analytics-008080?style=flat-square" />
+    <img src="https://img.shields.io/badge/Smart%20Mobility-5C3EE8?style=flat-square" />
+  </p>
+</td>  </tr>
 
   <tr>
     <td width="50%">
