@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/njoud-abdulaziz-26a47b208/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://x.com/njoudae">
+  <a href="https://x.com/njoudae9">
     <img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=twitter" />
   </a>
   <a href="https://wa.me/966582968140">
