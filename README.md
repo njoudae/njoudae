@@ -8,10 +8,16 @@
   <a href="mailto:njoodeshaq@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/njoud-abdulaziz-26a47b208/)">
+  <a href="https://www.linkedin.com/in/njoud-abdulaziz-26a47b208/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <img src="[https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4](https://x.com/njoudae)" />
+  <a href="https://x.com/njoudae">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=twitter" />
+  </a>
+  <a href="https://wa.me/966582968140">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=njoudae&style=flat-square&color=ff69b4" />
 </p>
 
 <p align="center">
